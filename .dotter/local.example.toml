@@ -1,0 +1,6 @@
+# select which of the packages in the global.toml file to deploy locally
+packages = ["zsh"]
+
+[variables]
+# change the ZSH theme
+theme = "awesomepanda"

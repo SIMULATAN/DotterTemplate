@@ -1,0 +1,2 @@
+alias doesthiswork="echo Yay - it works!"
+THEME={{theme}}

@@ -1,0 +1,5 @@
+[zsh.files]
+"zsh/zshrc" = "~/.zshrc"
+
+[zsh.variables]
+theme = "avit"
